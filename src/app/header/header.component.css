@@ -1,0 +1,36 @@
+header{
+    padding: 10px;
+    background: #090363;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.logo{
+    max-width: 10%;
+    max-height: 100%;
+    
+}
+.logo.hover{
+   margin-top: 10px;
+   margin-left: 10px;
+  
+}
+.desktop-menu{
+    margin-top: -100px;
+    margin-left: 1150px;
+}
+.desktop-menu ul{
+    padding: 0px;
+    margin: 2px;
+
+}
+.desktop-menu ul li{
+    list-style-type: none;
+    color: rgb(215, 16, 16);
+    display:inline-block;
+    font-size: 18px;
+    margin-left: 26px;
+
+
+}
+

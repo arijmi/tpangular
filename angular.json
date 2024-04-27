@@ -25,7 +25,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              
+              "node_modules/bootstrap-icons/font/bootstrap-icons.min.css"
+
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -96,5 +99,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "ab21276d-1949-4f2e-b2ff-1b6e78e505dd"
   }
 }
